@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @VNJordan1108
+- 👀 I’m interested in Something idk
+- 🌱 I’m currently learning Python, Pascal, C++, A litte of C#
+- Contact me on vnjordan110807@gmail.com
