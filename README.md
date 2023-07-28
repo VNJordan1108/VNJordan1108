@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @VNJordan1108
 - 👀 I’m interested in Something idk
-- 🌱 I’m currently learning Python, Pascal, C++, A litte of C#
-- Contact me on vnjordan110807@gmail.com
+- 🌱 I’m currently learning Python, Pascal, C++, A litte of C#, and PHP Laravel too
+- I'm a VNU.HCM - High School for the Gifted student.
+- Contact me on student222214@ptnk.edu.vn
